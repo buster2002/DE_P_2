@@ -6,7 +6,7 @@ In this project, I will create an Apache Cassandra database for this analysis wh
 In this project, I will apply what I have learned on data modeling with Apache Cassandra and complete an ETL pipeline using Python. To complete the project, I will need to model my data by creating tables in Apache Cassandra to run queries.    
 They have provided me with a project template that takes care of all the imports and provides a structure for ETL pipeline I'd need to process this data.   
 ## Datasets
-For this project, I am working with one dataset ‘event_data’. The directory of CSV files partitioned by date. Here are examples of filepaths to two files in the dataset:   
+For this project, I am working with one dataset â€˜event_dataâ€™. The directory of CSV files partitioned by date. Here are examples of filepaths to two files in the dataset:   
 - event_data/2018-11-08-events.csv   
 - event_data/2018-11-09-events.csv    
 
